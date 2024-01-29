@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "testing_vector",
+    "version": "1.0",
+    "description": "A Chrome extension with file upload and local storage",
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ]
+  }
+  
